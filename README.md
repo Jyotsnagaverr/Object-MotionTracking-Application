@@ -1,2 +1,2 @@
 # Object Motion Tracking Application
-Object motion tracking application
+An Application which will detect the motion of moving objects and It will capture the time when object entered into the frame.
